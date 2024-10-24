@@ -1,0 +1,49 @@
+name: cuc.christiansen
+description: object-oriented
+version: 0.0.1
+author: 5re0t7kd.t6dsmogu@u5eutrdh.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: cucchristiansen
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:25:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:25:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:25:03.944962Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '1658044609'
+  createdAt: '2024-10-24T20:25:03.944962Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
